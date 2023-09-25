@@ -10,7 +10,7 @@ using namespace std;
 // * * * * *
 
 
-/* First approach: we are observing that row number from 1 to n (n is an integer value given by user) and in each row there is row number of * and n-i spaces.
+/* Approach: we are observing that row number from 1 to n (n is an integer value given by user) and in each row there is row number of * and n-i spaces.
 // For Ex. first row has 1 * and 4 spaces, 2nd row has 2 * and 3 spaces, 3rd has 3 * and 2 spaces and so on.... */
 
 
