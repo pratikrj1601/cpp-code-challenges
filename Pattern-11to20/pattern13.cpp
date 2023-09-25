@@ -3,10 +3,10 @@ using namespace std;
 
 // Printing patterns using conditionals and if loops
 
-// 1
-// 2 2 
-// 3 3 3
-// 4 4 4 4
+// 1 
+// 1 2 
+// 1 2 3 
+// 1 2 3 4 
 
 
 /* Approach: we are observing that row number starts from 1 to n (n is an integer value given by user) and in each row there is i number of columns.
